@@ -27,6 +27,6 @@ int main()
         cout << "x = " << x << " \t " << y << " \t " << z << endl;
     }
 
-    cout<<"Success
+    cout<<"Success!"<<endl;
     return 0;
 }
